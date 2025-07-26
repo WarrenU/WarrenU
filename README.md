@@ -1,7 +1,7 @@
 <!-- Warren | GitHub Profile -->
 
-<h1 align="center">Hi, I'm Warren</h1>
-<p align="center"><b>Software Engineer — Backend API Development</b></p>
+<h2 align="center">Hi, I'm Warren</h2>
+<p align="center"><b>Senior Software Engineer</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -16,8 +16,17 @@
 ---
 
 <p align="center">
-  <a href="https://warrenu.github.io" style="font-size:1.2em;">
-    📚 Visit my <b>Blog Website</b>
+  <b>
+    I design, build, and optimize backend APIs and services.<br>
+    I’m passionate about writing efficient, maintainable code and delivering excellent customer experiences.
+  </b>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://warrenu.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20my%20Blog-4169E1?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog Badge">
   </a>
 </p>
 
