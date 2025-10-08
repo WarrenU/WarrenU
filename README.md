@@ -31,7 +31,6 @@ Outside of coding I enjoy spending time with my family, watching Reality TV like
 -->
 ### 📊 GitHub At A Glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=warrenu&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrenu&layout=compact&theme=radical" height="165" />
 </p>
 
